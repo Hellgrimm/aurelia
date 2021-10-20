@@ -1,0 +1,61 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+main{
+    max-width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color: #1b0914;
+    font-weight: bold;
+    line-height: 1.4375;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Laila', serif;
+    line-height: 1.5;
+    font-style: normal;
+    color: #6c223a;
+    letter-spacing: 0;
+    font-weight: normal;
+}
+
+
+
+.header .logo-container {
+    height: 40px;
+    width: 40px;
+}
+
+
+/*Hero block*/
+
+.hero h1{
+    text-transform: uppercase;
+}
+
+.hero p{
+    font-size: 32px;
+}
+
+.hero > .hero-content{
+    text-align: center;
+}
+
+.hero > .hero-content{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.hero{
+    padding-top: 80px;
+    padding-bottom: 90px;
+}
+
