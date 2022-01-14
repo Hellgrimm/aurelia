@@ -1,0 +1,19 @@
+{
+  "name": "aurelia",
+  "version": "1.0.0",
+  "description": "Project of site for Aurelia world (self project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hellgrimm/aurelia.git"
+  },
+  "author": "Hell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hellgrimm/aurelia/issues"
+  },
+  "homepage": "https://github.com/Hellgrimm/aurelia#readme"
+}
