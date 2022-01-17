@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Hellgrimm/aurelia/issues"
   },
-  "homepage": "https://github.com/Hellgrimm/aurelia#readme"
+  "homepage": "https://github.com/Hellgrimm/aurelia#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "i18next": "^21.6.6",
+    "react-i18next": "^11.15.3",
+    "save": "^2.4.0"
+  }
 }
